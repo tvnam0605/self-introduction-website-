@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto",sans-serif;
+}
+body{
+   
+    background: url(https://file.pngbackground.com/uploads/preview/blue-sky-cb-background-full-hd-for-picsart-11629359606mre8qozlot.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+.container{
+    border: 1px solid beige;
+    border-radius: 1em;
+    display: block;
+    margin-bottom: 100px;
+    position: relative;
+    border: none;
+   max-width: 800px;
+   margin: 0 auto;
+   top: 150px;
+  
+    
+   
+ 
+   
+    box-shadow: 0 35px 55px rgba(0,0, 0,1);
+
+   
+}
+header{
+    text-align: center;
+}
+h1{
+    color: #fff;
+}
+.center ul li{
+    background-color: #fffa;
+   border-radius: 1em;
+   padding: 0.5;
+   margin: 1em 0;
+   align-items: center;
+   display: flex;
+  display: inline-block;
+}
+
+.center ul li a{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    align-content: center;
+    gap: 0em;
+}
+
+header img{
+    width: 90px;
+    border-radius: 80%;
+    border: 1px solid greenyellow;
+}
+img {
+    margin-top: 10px;
+    width: 120px;
+    height: 120px;
+   margin-left: 10px;
+}
+a:hover{
+  color: rgb(134, 122, 106);
+  
+}
+ a {
+
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+	align-items: center;
+	padding: 5px;
+    
+	
+}
+ul {
+	text-align: center;
+	padding: auto;
+}
+p {
+
+	text-align: center;
+	color: #fff;
+}
+.end {
+
+	margin-top:5px ;
+	text-align: center;
+	color: #fff;
+}
